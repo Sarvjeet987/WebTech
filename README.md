@@ -11,4 +11,4 @@ Topit -
 6>Let's Discuss Your Project...
 
 
-Technology - HTML / BOOTSTRAP / CSS
+Technology - HTML / BOOTSTRAP / CSS / AOS
