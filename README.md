@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imges/logo (2).png" width="300"/>
+  <img src="imges/logo (2).png" width="200"/>
 </p>
 #Web Solutions That Deliver Results
 
