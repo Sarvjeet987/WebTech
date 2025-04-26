@@ -1,7 +1,6 @@
 <p align="center">
   <img src="imges/logo (2).png" width="200"/>
 </p>
-<div style="background-image: url('imges/logo (2).png'); background-size: cover; background-position: center; padding: 50px;">
 #Web Solutions That Deliver Results
 
 $Unlock your business’s full potential with our expert web development solutions. We design and build modern, responsive websites tailored to your brand and goals. From concept to launch, we provide end-to-end services that ensure performance, user experience, and growth. Whether you're starting fresh or revamping your current site, we deliver results that make an impact.
